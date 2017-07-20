@@ -1,0 +1,12 @@
+C:\Software\Mauricio\Main\Theory\Bugs\XmlReadWriterError\XmlDotNetSandardClass\bin\Debug\netstandard1.4\XmlDotNetSandardClass.deps.json
+C:\Software\Mauricio\Main\Theory\Bugs\XmlReadWriterError\XmlDotNetSandardClass\bin\Debug\netstandard1.4\XmlDotNetSandardClass.dll
+C:\Software\Mauricio\Main\Theory\Bugs\XmlReadWriterError\XmlDotNetSandardClass\bin\Debug\netstandard1.4\XmlDotNetSandardClass.pdb
+C:\Software\Mauricio\Main\Theory\Bugs\XmlReadWriterError\XmlDotNetSandardClass\obj\Debug\netstandard1.4\XmlDotNetSandardClass.AssemblyInfo.cs
+C:\Software\Mauricio\Main\Theory\Bugs\XmlReadWriterError\XmlDotNetSandardClass\obj\Debug\netstandard1.4\XmlDotNetSandardClass.dll
+C:\Software\Mauricio\Main\Theory\Bugs\XmlReadWriterError\XmlDotNetSandardClass\obj\Debug\netstandard1.4\XmlDotNetSandardClass.pdb
+C:\Users\MauricioB\Source\Repos\Public\XmlReadWriterError\XmlDotNetSandardClass\bin\Debug\netstandard1.4\XmlDotNetSandardClass.deps.json
+C:\Users\MauricioB\Source\Repos\Public\XmlReadWriterError\XmlDotNetSandardClass\bin\Debug\netstandard1.4\XmlDotNetSandardClass.dll
+C:\Users\MauricioB\Source\Repos\Public\XmlReadWriterError\XmlDotNetSandardClass\bin\Debug\netstandard1.4\XmlDotNetSandardClass.pdb
+C:\Users\MauricioB\Source\Repos\Public\XmlReadWriterError\XmlDotNetSandardClass\obj\Debug\netstandard1.4\XmlDotNetSandardClass.AssemblyInfo.cs
+C:\Users\MauricioB\Source\Repos\Public\XmlReadWriterError\XmlDotNetSandardClass\obj\Debug\netstandard1.4\XmlDotNetSandardClass.dll
+C:\Users\MauricioB\Source\Repos\Public\XmlReadWriterError\XmlDotNetSandardClass\obj\Debug\netstandard1.4\XmlDotNetSandardClass.pdb
