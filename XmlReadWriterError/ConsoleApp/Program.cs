@@ -14,6 +14,9 @@ namespace ConsoleApp
             DotNetStandardClass failingClass = new DotNetStandardClass();
             try
             {
+                failingClass.MethodDoesNotFail();
+                Console.WriteLine("The Good method ran");
+
                 failingClass.MethodThatFails();
             }
             catch (Exception ex)
